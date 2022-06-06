@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/377.4312eecb.chunk.css","mappings":"AAAA,OAIC,iBAAkB,CAHlB,aAAc,CAKd,WAJA,aAAc,CACd,gBAAiB,CAEjB,SACW","sources":["components/errorMessage/errorMessage.scss"],"sourcesContent":[".error {\n\tdisplay: block;\n\tmargin: 0 auto;\n\tpadding-top: 30px;\n\tborder-radius: 20%;\n\twidth: 80%;\n\theight: 90%;\n}"],"names":[],"sourceRoot":""}
